@@ -1,0 +1,15 @@
+// Compost colors for unsortedstarfall. You may add your own colors, change existing ones, or remove colors that aren't needed.
+autocannon_cartridge, #a89378
+biomass_chunk, #2f3e2d
+bolt, #9da1a0
+bunker_door, #a8b2b9
+electrical_component, #7c9151
+emf_reader, #c08068
+flamethrower_fuel, #8c7a78
+incendiary_grenade, #7f5754
+override_stick, #5c7fa4
+pump_mechanism, #9ba1a0
+rations, #8e8065
+singularity, #bbffff
+singularity_bomb, #a4f5fb
+spine_sac, #435437

@@ -1,0 +1,25 @@
+// Compost colors for rusty_decor. You may add your own colors, change existing ones, or remove colors that aren't needed.
+black_curtain, #2f2c2d
+bleached_door, #dcd7d3
+blue_curtain, #72aeff
+brown_curtain, #93583e
+cyan_curtain, #cdae0
+ghidorah_figurine, #9d6e26
+godzilla_figurine, #615854
+gray_curtain, #898483
+green_curtain, #4b9a2a
+hollow_knight_figurine, #7d7a7c
+hornet_figurine, #a87678
+light_blue_curtain, #80e0ff
+light_gray_curtain, #bfbcb4
+lime_curtain, #94ff1f
+magenta_curtain, #ff79ff
+orange_curtain, #d4470a
+patrick_figurine, #e17d66
+pink_curtain, #ff84ff
+purple_curtain, #da8cff
+red_curtain, #bc2834
+spongebob_figurine, #caaf58
+thin_iron_bars, #848483
+white_curtain, #ffffff
+yellow_curtain, #ffd91f

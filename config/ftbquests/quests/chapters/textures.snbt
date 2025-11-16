@@ -1,0 +1,181 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "textures"
+	group: ""
+	id: "71F889BFF43E7280"
+	images: [
+		{
+			height: 1.0d
+			image: "ftbquests:textures/shapes/circle/background.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/shapes/circle/outline.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "strangematter:textures/entity/warp_gate_anomaly.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "strangematter:textures/entity/warp_gate_vortex.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "forbidden_arcanus:textures/effect/magic_circle/outer/pactum.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "sophisticatedstorage:block/diamond_barrel_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "gtceu:block/cover/ender_item_link_emissive"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "gtceu:block/multiblock/hpca/overlay_front_emissive"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "ad_astra:textures/sky/moon.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "forbidden_arcanus:item/eternal_stella"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "forbidden_arcanus:item/dark_matter"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "gtceu:textures/gui/icon/gregtech_logo.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "strangematter:textures/ui/time_clock.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "forbidden_arcanus:block/whirlwind_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "kubejs:item/mission_luna_pfp"
+			rotation: 0.0d
+			width: 3.170854271356784d
+			x: 1.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "kubejs:item/2025-08-30_17.26.00"
+			rotation: 0.0d
+			width: 1.9028741328047571d
+			x: 3.5d
+			y: 3.0d
+		}
+		{
+			height: 8.0d
+			image: "tooltipoverhaul:textures/overlay/silver_frame.png"
+			rotation: 0.0d
+			width: 8.0d
+			x: -1.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "gtceu:textures/gui/widget/electricity_wires.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "ad_astra:textures/sky/earth.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "tooltipoverhaul:textures/overlay/mv_frame.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "xbbsroaringknightmod:textures/advancement/advancement_background.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -1.0d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+	title: "textures"
+}

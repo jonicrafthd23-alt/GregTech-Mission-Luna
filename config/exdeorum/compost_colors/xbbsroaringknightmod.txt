@@ -1,0 +1,10 @@
+// Compost colors for xbbsroaringknightmod. You may add your own colors, change existing ones, or remove colors that aren't needed.
+defeat_roaring_knight_advancement, #626262
+heal_prayer, #b8ff84
+knife, #b2aea5
+kris_sword, #e87fa7
+root_advancement, #fefefe
+shadow_crystal, #73c44
+spawn_roaring_knight_advancement, #4b44d9
+susie_axe, #6b8ea2
+ultra_heal, #ae54e6

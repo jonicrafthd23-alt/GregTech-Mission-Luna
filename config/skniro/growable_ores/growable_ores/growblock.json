@@ -1,0 +1,7 @@
+{
+  "//": "data/growable_ores/tags/block/growblock.json",
+  "replace": false,
+  "values": [
+    "ad_astra:moon_sand"
+  ]
+}

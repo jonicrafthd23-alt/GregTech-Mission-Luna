@@ -1,0 +1,15 @@
+// Compost colors for soap_v2. You may add your own colors, change existing ones, or remove colors that aren't needed.
+caliburn, #ffe3cc
+crown_helmet, #fbcc68
+davidsstaff, #111111
+dragonskull_axe, #aa90ab
+excalibarr_blade, #28151f
+lost_child_soul, #4bffff
+mana_scythe, #a292a
+poop, #664d44
+shadow_fragment, #261111
+summoning_spear, #c8ffff
+summoningsigil, #51ff44
+throwing_knife, #897f6b
+trafficsign, #aa9df5
+uranium_chunk, #29ee90

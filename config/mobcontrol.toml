@@ -1,0 +1,12 @@
+[[mob]]
+name="ad_astra:glacian_ram"
+[[mob.rule]]
+type="control"
+repeat=[200,800]
+dimension=["minecraft:overworld"]
+set.health=50
+
+[[mob]]
+name="*"
+[[mob.rule]]
+type="allow"

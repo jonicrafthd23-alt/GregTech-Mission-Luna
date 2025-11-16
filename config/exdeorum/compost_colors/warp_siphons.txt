@@ -1,0 +1,2 @@
+// Compost colors for warp_siphons. You may add your own colors, change existing ones, or remove colors that aren't needed.
+siphon_core, #ff84e8

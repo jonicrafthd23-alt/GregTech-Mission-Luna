@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "special_thanks"
+	group: ""
+	icon: "kubejs:lunar_coin"
+	id: "328660F38AC2CAD2"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+	title: "Special Thanks"
+}

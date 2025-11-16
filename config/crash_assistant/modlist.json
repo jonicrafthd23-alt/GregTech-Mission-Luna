@@ -1,0 +1,955 @@
+{
+  "fmlloader-1.20.1-47.4.6.jar (modloader)": {
+    "jarName": "fmlloader-1.20.1-47.4.6.jar (modloader)",
+    "modId": "forge",
+    "version": "fmlloader-1.20.1-47.4.6.jar"
+  },
+  "ad_astra-forge-1.20.1-1.15.20.jar": {
+    "jarName": "ad_astra-forge-1.20.1-1.15.20.jar",
+    "modId": "ad_astra",
+    "version": "1.15.20"
+  },
+  "AdvancedAE-1.3.2-1.20.1.jar": {
+    "jarName": "AdvancedAE-1.3.2-1.20.1.jar",
+    "modId": "advanced_ae",
+    "version": "1.3.2-1.20.1"
+  },
+  "ae2ct-1.20.1-1.1.1.jar": {
+    "jarName": "ae2ct-1.20.1-1.1.1.jar",
+    "modId": "ae2ct",
+    "version": "1.20.1-1.1.1"
+  },
+  "ae2qolrecipes-forge-1.18-1.20.1-1.3.0.jar": {
+    "jarName": "ae2qolrecipes-forge-1.18-1.20.1-1.3.0.jar",
+    "modId": "ae2qolrecipes",
+    "version": "1.3.0"
+  },
+  "ae2wtlib-15.3.1-forge.jar": {
+    "jarName": "ae2wtlib-15.3.1-forge.jar",
+    "modId": "ae2wtlib",
+    "version": "15.3.1-forge"
+  },
+  "AEInfinityBooster-1.20.1-1.0.0+51.jar": {
+    "jarName": "AEInfinityBooster-1.20.1-1.0.0+51.jar",
+    "modId": "aeinfinitybooster",
+    "version": "1.20.1-1.0.0+51"
+  },
+  "almostunified-forge-1.20.1-0.10.1.jar": {
+    "jarName": "almostunified-forge-1.20.1-0.10.1.jar",
+    "modId": "almostunified",
+    "version": "1.20.1-0.10.1"
+  },
+  "appleskin-forge-mc1.20.1-2.5.1.jar": {
+    "jarName": "appleskin-forge-mc1.20.1-2.5.1.jar",
+    "modId": "appleskin",
+    "version": "2.5.1+mc1.20.1"
+  },
+  "appliedenergistics2-forge-15.4.10.jar": {
+    "jarName": "appliedenergistics2-forge-15.4.10.jar",
+    "modId": "ae2",
+    "version": "15.4.10"
+  },
+  "architectury-9.2.14-forge.jar": {
+    "jarName": "architectury-9.2.14-forge.jar",
+    "modId": "architectury",
+    "version": "9.2.14"
+  },
+  "athena-forge-1.20.1-3.1.2.jar": {
+    "jarName": "athena-forge-1.20.1-3.1.2.jar",
+    "modId": "athena",
+    "version": "3.1.2"
+  },
+  "auudio_forge_1.0.3_MC_1.19.3.jar": {
+    "jarName": "auudio_forge_1.0.3_MC_1.19.3.jar",
+    "modId": "auudio",
+    "version": "1.0.3"
+  },
+  "balm-forge-1.20.1-7.3.37-all.jar": {
+    "jarName": "balm-forge-1.20.1-7.3.37-all.jar",
+    "modId": "balm",
+    "version": "7.3.37"
+  },
+  "BetterAdvancements-Forge-1.20.1-0.4.2.25.jar": {
+    "jarName": "BetterAdvancements-Forge-1.20.1-0.4.2.25.jar",
+    "modId": "betteradvancements",
+    "version": "0.4.2.25"
+  },
+  "betterchunkloading-1.20.1-5.4.jar": {
+    "jarName": "betterchunkloading-1.20.1-5.4.jar",
+    "modId": "betterchunkloading",
+    "version": "1.20.1-5.4"
+  },
+  "BetterCompatibilityChecker-forge-4.0.8+mc1.20.1.jar": {
+    "jarName": "BetterCompatibilityChecker-forge-4.0.8+mc1.20.1.jar",
+    "modId": "bcc",
+    "version": "4.0.8"
+  },
+  "BetterF3-7.0.2-Forge-1.20.1.jar": {
+    "jarName": "BetterF3-7.0.2-Forge-1.20.1.jar",
+    "modId": "betterf3",
+    "version": "7.0.2"
+  },
+  "betterfpsdist-1.20.1-6.0.jar": {
+    "jarName": "betterfpsdist-1.20.1-6.0.jar",
+    "modId": "betterfpsdist",
+    "version": "1.20.1-6.0"
+  },
+  "BetterThirdPerson-Forge-1.20-1.9.0.jar": {
+    "jarName": "BetterThirdPerson-Forge-1.20-1.9.0.jar",
+    "modId": "betterthirdperson",
+    "version": "1.9.0"
+  },
+  "betterworldloading20-1.0.jar": {
+    "jarName": "betterworldloading20-1.0.jar",
+    "modId": "betterworldloading20",
+    "version": "1.0"
+  },
+  "blue-archive-halo-1.2.2-1.20.1-forge.jar": {
+    "jarName": "blue-archive-halo-1.2.2-1.20.1-forge.jar",
+    "modId": "blue_archive_halo",
+    "version": "1.2.2"
+  },
+  "Bookshelf-Forge-1.20.1-20.2.13.jar": {
+    "jarName": "Bookshelf-Forge-1.20.1-20.2.13.jar",
+    "modId": "bookshelf",
+    "version": "20.2.13"
+  },
+  "BorderlessWindow-1.20-1.6.0.jar": {
+    "jarName": "BorderlessWindow-1.20-1.6.0.jar",
+    "modId": "borderlesswindow",
+    "version": "1.20-1.6.0"
+  },
+  "botarium-forge-1.20.1-2.3.4.jar": {
+    "jarName": "botarium-forge-1.20.1-2.3.4.jar",
+    "modId": "botarium",
+    "version": "2.3.4"
+  },
+  "buildinggadgets2-1.0.8.jar": {
+    "jarName": "buildinggadgets2-1.0.8.jar",
+    "modId": "buildinggadgets2",
+    "version": "1.0.8"
+  },
+  "caelus-forge-3.2.0+1.20.1.jar": {
+    "jarName": "caelus-forge-3.2.0+1.20.1.jar",
+    "modId": "caelus",
+    "version": "3.2.0+1.20.1"
+  },
+  "canary-mc1.20.1-0.3.3.jar": {
+    "jarName": "canary-mc1.20.1-0.3.3.jar",
+    "modId": "canary",
+    "version": "0.3.3"
+  },
+  "certain_questing_additions-forge-1.0.7+mc1.20.1.jar": {
+    "jarName": "certain_questing_additions-forge-1.0.7+mc1.20.1.jar",
+    "modId": "certain_questing_additions",
+    "version": "1.0.7"
+  },
+  "cerulean-forge-1.0.0-1.20.1.jar": {
+    "jarName": "cerulean-forge-1.0.0-1.20.1.jar",
+    "modId": "cerulean",
+    "version": "1.0.0"
+  },
+  "chat_heads-0.14.2-forge-1.20.jar": {
+    "jarName": "chat_heads-0.14.2-forge-1.20.jar",
+    "modId": "chat_heads",
+    "version": "0.14.2"
+  },
+  "ChatImpressiveAnimation-forge-1.4.0+mc1.20.4.jar": {
+    "jarName": "ChatImpressiveAnimation-forge-1.4.0+mc1.20.4.jar",
+    "modId": "chatimpressiveanimation",
+    "version": "1.4.0+mc1.20.4"
+  },
+  "chipped-forge-1.20.1-3.0.7.jar": {
+    "jarName": "chipped-forge-1.20.1-3.0.7.jar",
+    "modId": "chipped",
+    "version": "3.0.7"
+  },
+  "chisel_chipped_integration-v1.1.6-1.20.1.jar": {
+    "jarName": "chisel_chipped_integration-v1.1.6-1.20.1.jar",
+    "modId": "chisel_chipped_integration",
+    "version": "1.1.4-1.20.1"
+  },
+  "chloride-FORGE-mc1.20.1-v1.7.2.jar": {
+    "jarName": "chloride-FORGE-mc1.20.1-v1.7.2.jar",
+    "modId": "chloride",
+    "version": "1.7.2"
+  },
+  "chunkactivitytracker-forge-1.0.1-1.20.1.jar": {
+    "jarName": "chunkactivitytracker-forge-1.0.1-1.20.1.jar",
+    "modId": "chunkactivitytracker",
+    "version": "1.0.1"
+  },
+  "cloth-config-11.1.136-forge.jar": {
+    "jarName": "cloth-config-11.1.136-forge.jar",
+    "modId": "cloth_config",
+    "version": "11.1.136"
+  },
+  "cofh_core-1.20.1-11.0.2.56.jar": {
+    "jarName": "cofh_core-1.20.1-11.0.2.56.jar",
+    "modId": "cofh_core",
+    "version": "11.0.2"
+  },
+  "collective-1.20.1-8.13.jar": {
+    "jarName": "collective-1.20.1-8.13.jar",
+    "modId": "collective",
+    "version": "8.13"
+  },
+  "common-networking-forge-1.0.5-1.20.1.jar": {
+    "jarName": "common-networking-forge-1.0.5-1.20.1.jar",
+    "modId": "commonnetworking",
+    "version": "1.0.5-1.20.1"
+  },
+  "CommonCapabilities-1.20.1-2.9.11.jar": {
+    "jarName": "CommonCapabilities-1.20.1-2.9.11.jar",
+    "modId": "commoncapabilities",
+    "version": "2.9.11"
+  },
+  "connectivity-1.20.1-7.2.jar": {
+    "jarName": "connectivity-1.20.1-7.2.jar",
+    "modId": "connectivity",
+    "version": "1.20.1-7.2"
+  },
+  "constructionwand-1.20.1-2.11.jar": {
+    "jarName": "constructionwand-1.20.1-2.11.jar",
+    "modId": "constructionwand",
+    "version": "1.20.1-2.11"
+  },
+  "Controlling-forge-1.20.1-12.0.2.jar": {
+    "jarName": "Controlling-forge-1.20.1-12.0.2.jar",
+    "modId": "controlling",
+    "version": "12.0.2"
+  },
+  "corpse-forge-1.20.1-1.0.23.jar": {
+    "jarName": "corpse-forge-1.20.1-1.0.23.jar",
+    "modId": "corpse",
+    "version": "1.20.1-1.0.23"
+  },
+  "cosmeticarmorreworked-1.20.1-v1a.jar": {
+    "jarName": "cosmeticarmorreworked-1.20.1-v1a.jar",
+    "modId": "cosmeticarmorreworked",
+    "version": "1.20.1-v1a"
+  },
+  "CrashAssistant-forge-1.19-1.20.1-1.10.20.jar": {
+    "jarName": "CrashAssistant-forge-1.19-1.20.1-1.10.20.jar",
+    "modId": "crash_assistant",
+    "version": "1.10.20"
+  },
+  "cryonicconfig-forge-1.0.0+mc1.20.1.jar": {
+    "jarName": "cryonicconfig-forge-1.0.0+mc1.20.1.jar",
+    "modId": "cryonicconfig",
+    "version": "1.0.0+mc1.20.1"
+  },
+  "Cucumber-1.20.1-7.0.16.jar": {
+    "jarName": "Cucumber-1.20.1-7.0.16.jar",
+    "modId": "cucumber",
+    "version": "7.0.16"
+  },
+  "cupboard-1.20.1-2.7.jar": {
+    "jarName": "cupboard-1.20.1-2.7.jar",
+    "modId": "cupboard",
+    "version": "1.20.1-2.7"
+  },
+  "curios-forge-5.14.1+1.20.1.jar": {
+    "jarName": "curios-forge-5.14.1+1.20.1.jar",
+    "modId": "curios",
+    "version": "5.14.1+1.20.1"
+  },
+  "CustomStartingGear-1.20-2.0.3.jar": {
+    "jarName": "CustomStartingGear-1.20-2.0.3.jar",
+    "modId": "customstartinggear",
+    "version": "2.0.3"
+  },
+  "CyclopsCore-1.20.1-1.21.3.jar": {
+    "jarName": "CyclopsCore-1.20.1-1.21.3.jar",
+    "modId": "cyclopscore",
+    "version": "1.21.3"
+  },
+  "despawntweaks-forge-1.0.0-1.20.1.jar": {
+    "jarName": "despawntweaks-forge-1.0.0-1.20.1.jar",
+    "modId": "despawntweaks",
+    "version": "1.0.0"
+  },
+  "distraction_free_recipes-forge-1.2.1-1.20.1.jar": {
+    "jarName": "distraction_free_recipes-forge-1.2.1-1.20.1.jar",
+    "modId": "distraction_free_recipes",
+    "version": "1.2.1"
+  },
+  "does_it_tick-forge-1.1.4-1.20.1.jar": {
+    "jarName": "does_it_tick-forge-1.1.4-1.20.1.jar",
+    "modId": "does_it_tick",
+    "version": "1.1.4"
+  },
+  "drippyloadingscreen_forge_3.0.12_MC_1.20.1.jar": {
+    "jarName": "drippyloadingscreen_forge_3.0.12_MC_1.20.1.jar",
+    "modId": "drippyloadingscreen",
+    "version": "3.0.12"
+  },
+  "dynamic-fps-3.9.5+minecraft-1.20.0-forge.jar": {
+    "jarName": "dynamic-fps-3.9.5+minecraft-1.20.0-forge.jar",
+    "modId": "dynamic_fps",
+    "version": "3.9.5"
+  },
+  "effortlessbuilding-1.20.1-3.10.jar": {
+    "jarName": "effortlessbuilding-1.20.1-3.10.jar",
+    "modId": "effortlessbuilding",
+    "version": "3.10"
+  },
+  "embeddium-0.3.31+mc1.20.1.jar": {
+    "jarName": "embeddium-0.3.31+mc1.20.1.jar",
+    "modId": "embeddium",
+    "version": "0.3.31+mc1.20.1"
+  },
+  "emi-1.1.22+1.20.1+forge.jar": {
+    "jarName": "emi-1.1.22+1.20.1+forge.jar",
+    "modId": "emi",
+    "version": "1.1.22+1.20.1+forge"
+  },
+  "entity_model_features_1.20.1-forge-3.0.1.jar": {
+    "jarName": "entity_model_features_1.20.1-forge-3.0.1.jar",
+    "modId": "entity_model_features",
+    "version": "3.0.1"
+  },
+  "entity_texture_features_1.20.1-forge-7.0.2.jar": {
+    "jarName": "entity_texture_features_1.20.1-forge-7.0.2.jar",
+    "modId": "entity_texture_features",
+    "version": "7.0.2"
+  },
+  "entityculling-forge-1.9.3-mc1.20.1.jar": {
+    "jarName": "entityculling-forge-1.9.3-mc1.20.1.jar",
+    "modId": "entityculling",
+    "version": "1.9.3"
+  },
+  "exdeorum-1.46.jar": {
+    "jarName": "exdeorum-1.46.jar",
+    "modId": "exdeorum",
+    "version": "1.46"
+  },
+  "ExtendedAE-1.20-1.4.8-forge.jar": {
+    "jarName": "ExtendedAE-1.20-1.4.8-forge.jar",
+    "modId": "expatternprovider",
+    "version": "1.20-1.4.8-forge"
+  },
+  "ExtremeSoundMuffler-3.49.1-forge-1.20.1.jar": {
+    "jarName": "ExtremeSoundMuffler-3.49.1-forge-1.20.1.jar",
+    "modId": "extremesoundmuffler",
+    "version": "3.48"
+  },
+  "factory_blocks-forge-1.4.0+mc1.20.1.jar": {
+    "jarName": "factory_blocks-forge-1.4.0+mc1.20.1.jar",
+    "modId": "factory_blocks",
+    "version": "1.4.0+mc1.20.1"
+  },
+  "fancymenu_forge_3.7.0_MC_1.20.1.jar": {
+    "jarName": "fancymenu_forge_3.7.0_MC_1.20.1.jar",
+    "modId": "fancymenu",
+    "version": "3.7.0"
+  },
+  "fast-ip-ping-v1.0.7-mc1.20.4-forge.jar": {
+    "jarName": "fast-ip-ping-v1.0.7-mc1.20.4-forge.jar",
+    "modId": "fastipping",
+    "version": "1.0.7"
+  },
+  "fastasyncworldsave-1.20.1-2.6.jar": {
+    "jarName": "fastasyncworldsave-1.20.1-2.6.jar",
+    "modId": "fastasyncworldsave",
+    "version": "1.20.1-2.6"
+  },
+  "fastboot-1.20.x-1.2.jar": {
+    "jarName": "fastboot-1.20.x-1.2.jar",
+    "modId": "fastboot",
+    "version": "1.2"
+  },
+  "FastFurnace-1.20.1-8.0.2.jar": {
+    "jarName": "FastFurnace-1.20.1-8.0.2.jar",
+    "modId": "fastfurnace",
+    "version": "8.0.2"
+  },
+  "FastLeafDecay-32.jar": {
+    "jarName": "FastLeafDecay-32.jar",
+    "modId": "fastleafdecay",
+    "version": "32"
+  },
+  "FastSuite-1.20.1-5.1.0.jar": {
+    "jarName": "FastSuite-1.20.1-5.1.0.jar",
+    "modId": "fastsuite",
+    "version": "5.1.0"
+  },
+  "FastWorkbench-1.20.1-8.0.4.jar": {
+    "jarName": "FastWorkbench-1.20.1-8.0.4.jar",
+    "modId": "fastbench",
+    "version": "8.0.4"
+  },
+  "flerovium-forge-1.20.1-1.2.16-all.jar": {
+    "jarName": "flerovium-forge-1.20.1-1.2.16-all.jar",
+    "modId": "flerovium",
+    "version": "1.2.16"
+  },
+  "FpsReducer2-forge-1.20.1-2.5.1.jar": {
+    "jarName": "FpsReducer2-forge-1.20.1-2.5.1.jar",
+    "modId": "fpsreducer",
+    "version": "1.20.1-2.5.1"
+  },
+  "fragmentum-1.0.6-forge-1.20.1.jar": {
+    "jarName": "fragmentum-1.0.6-forge-1.20.1.jar",
+    "modId": "fragmentum",
+    "version": "1.0.0"
+  },
+  "FramedBlocks-9.4.2.jar": {
+    "jarName": "FramedBlocks-9.4.2.jar",
+    "modId": "framedblocks",
+    "version": "9.4.2"
+  },
+  "ftb-chunks-forge-2001.3.6.jar": {
+    "jarName": "ftb-chunks-forge-2001.3.6.jar",
+    "modId": "ftbchunks",
+    "version": "2001.3.6"
+  },
+  "ftb-essentials-forge-2001.2.3.jar": {
+    "jarName": "ftb-essentials-forge-2001.2.3.jar",
+    "modId": "ftbessentials",
+    "version": "2001.2.3"
+  },
+  "ftb-filter-system-forge-20.0.1.jar": {
+    "jarName": "ftb-filter-system-forge-20.0.1.jar",
+    "modId": "ftbfiltersystem",
+    "version": "20.0.1"
+  },
+  "ftb-library-forge-2001.2.10.jar": {
+    "jarName": "ftb-library-forge-2001.2.10.jar",
+    "modId": "ftblibrary",
+    "version": "2001.2.10"
+  },
+  "ftb-quests-forge-2001.4.15.jar": {
+    "jarName": "ftb-quests-forge-2001.4.15.jar",
+    "modId": "ftbquests",
+    "version": "2001.4.15"
+  },
+  "ftb-teams-forge-2001.3.1.jar": {
+    "jarName": "ftb-teams-forge-2001.3.1.jar",
+    "modId": "ftbteams",
+    "version": "2001.3.1"
+  },
+  "ftb-ultimine-forge-2001.1.7.jar": {
+    "jarName": "ftb-ultimine-forge-2001.1.7.jar",
+    "modId": "ftbultimine",
+    "version": "2001.1.7"
+  },
+  "ftb-xmod-compat-forge-2.1.3.jar": {
+    "jarName": "ftb-xmod-compat-forge-2.1.3.jar",
+    "modId": "ftbxmodcompat",
+    "version": "2.1.3"
+  },
+  "ftbquestsfreezefix-forge-1.0.0-1.20.1.jar": {
+    "jarName": "ftbquestsfreezefix-forge-1.0.0-1.20.1.jar",
+    "modId": "ftbquestsfreezefix",
+    "version": "1.0.0"
+  },
+  "fuelgoeshere-1.20.0-1.0.1.jar": {
+    "jarName": "fuelgoeshere-1.20.0-1.0.1.jar",
+    "modId": "fuelgoeshere",
+    "version": "1.20.0-1.0.1"
+  },
+  "fusion-1.2.11a-forge-mc1.20.1.jar": {
+    "jarName": "fusion-1.2.11a-forge-mc1.20.1.jar",
+    "modId": "fusion",
+    "version": "1.2.11+a"
+  },
+  "fzzy_config-0.7.3+1.20.1+forge.jar": {
+    "jarName": "fzzy_config-0.7.3+1.20.1+forge.jar",
+    "modId": "fzzy_config",
+    "version": "0.7.3+1.20.1+forge"
+  },
+  "geckolib-forge-1.20.1-4.8.2.jar": {
+    "jarName": "geckolib-forge-1.20.1-4.8.2.jar",
+    "modId": "geckolib",
+    "version": "4.8.2"
+  },
+  "glassential-renewed-forge-1.20.1-2.4.5.jar": {
+    "jarName": "glassential-renewed-forge-1.20.1-2.4.5.jar",
+    "modId": "glassential",
+    "version": "2.4.5"
+  },
+  "Glodium-1.20-1.5-forge.jar": {
+    "jarName": "Glodium-1.20-1.5-forge.jar",
+    "modId": "glodium",
+    "version": "1.20-1.5-forge"
+  },
+  "gpumemleakfix-1.20.1-1.8.jar": {
+    "jarName": "gpumemleakfix-1.20.1-1.8.jar",
+    "modId": "gpumemleakfix",
+    "version": "1.20.1-1.8"
+  },
+  "GrowableOres-3.6.1-1.20.1-Forge.jar": {
+    "jarName": "GrowableOres-3.6.1-1.20.1-Forge.jar",
+    "modId": "growable_ores",
+    "version": "3.6.1-1.20.1-Forge"
+  },
+  "gtceu-1.20.1-7.3.0.jar": {
+    "jarName": "gtceu-1.20.1-7.3.0.jar",
+    "modId": "gtceu",
+    "version": "7.3.0"
+  },
+  "gtmthings-1.5.4.jar": {
+    "jarName": "gtmthings-1.5.4.jar",
+    "modId": "gtmthings",
+    "version": "1.5.4"
+  },
+  "gtmvisualrecipeeditor-1.1.0.jar": {
+    "jarName": "gtmvisualrecipeeditor-1.1.0.jar",
+    "modId": "gtmvisualrecipeeditor",
+    "version": "1.1.0"
+  },
+  "guideme-20.1.14.jar": {
+    "jarName": "guideme-20.1.14.jar",
+    "modId": "guideme",
+    "version": "20.1.14"
+  },
+  "Iceberg-1.20.1-forge-1.1.25.jar": {
+    "jarName": "Iceberg-1.20.1-forge-1.1.25.jar",
+    "modId": "iceberg",
+    "version": "1.1.25"
+  },
+  "ImmediatelyFast-Forge-1.5.2+1.20.4.jar": {
+    "jarName": "ImmediatelyFast-Forge-1.5.2+1.20.4.jar",
+    "modId": "immediatelyfast",
+    "version": "1.5.2+1.20.4"
+  },
+  "immersive_optimization-forge-1.20.1-0.1.0.jar": {
+    "jarName": "immersive_optimization-forge-1.20.1-0.1.0.jar",
+    "modId": "immersive_optimization",
+    "version": "0.1.0"
+  },
+  "ImmersiveUI-FORGE-0.3.0.jar": {
+    "jarName": "ImmersiveUI-FORGE-0.3.0.jar",
+    "modId": "immersiveui",
+    "version": "0.3.0"
+  },
+  "incontrol-1.20-9.4.1.jar": {
+    "jarName": "incontrol-1.20-9.4.1.jar",
+    "modId": "incontrol",
+    "version": "1.20-9.4.1"
+  },
+  "Jade-1.20.1-Forge-11.13.2.jar": {
+    "jarName": "Jade-1.20.1-Forge-11.13.2.jar",
+    "modId": "jade",
+    "version": "11.13.2+forge"
+  },
+  "JadeAddons-1.20.1-Forge-5.5.0.jar": {
+    "jarName": "JadeAddons-1.20.1-Forge-5.5.0.jar",
+    "modId": "jadeaddons",
+    "version": "5.5.0+forge"
+  },
+  "jamlib-forge-1.3.5+1.20.1.jar": {
+    "jarName": "jamlib-forge-1.3.5+1.20.1.jar",
+    "modId": "jamlib",
+    "version": "1.3.5+1.20.1"
+  },
+  "jei-1.20.1-forge-15.20.0.121.jar": {
+    "jarName": "jei-1.20.1-forge-15.20.0.121.jar",
+    "modId": "jei",
+    "version": "15.20.0.121"
+  },
+  "journeymap-1.20.1-5.10.3-forge.jar": {
+    "jarName": "journeymap-1.20.1-5.10.3-forge.jar",
+    "modId": "journeymap",
+    "version": "5.10.3"
+  },
+  "justzoom_forge_2.1.1_MC_1.20.1.jar": {
+    "jarName": "justzoom_forge_2.1.1_MC_1.20.1.jar",
+    "modId": "justzoom",
+    "version": "2.1.1"
+  },
+  "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar": {
+    "jarName": "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+    "modId": "konkrete",
+    "version": "1.8.0"
+  },
+  "kotlinforforge-4.11.0-all.jar": {
+    "jarName": "kotlinforforge-4.11.0-all.jar"
+  },
+  "KryptonReforged-0.2.3.jar": {
+    "jarName": "KryptonReforged-0.2.3.jar",
+    "modId": "krypton",
+    "version": "0.2.3"
+  },
+  "kubejs-forge-2001.6.5-build.16.jar": {
+    "jarName": "kubejs-forge-2001.6.5-build.16.jar",
+    "modId": "kubejs",
+    "version": "2001.6.5-build.16"
+  },
+  "ldlib-forge-1.20.1-1.0.45.jar": {
+    "jarName": "ldlib-forge-1.20.1-1.0.45.jar",
+    "modId": "ldlib",
+    "version": "1.0.45"
+  },
+  "limitedchunks-1.20.1-4.1.jar": {
+    "jarName": "limitedchunks-1.20.1-4.1.jar",
+    "modId": "limitedchunks",
+    "version": "1.8"
+  },
+  "logprot-1.20.1-3.5.jar": {
+    "jarName": "logprot-1.20.1-3.5.jar",
+    "modId": "logprot",
+    "version": "1.4"
+  },
+  "lootjs-forge-1.20.1-2.13.0.jar": {
+    "jarName": "lootjs-forge-1.20.1-2.13.0.jar",
+    "modId": "lootjs",
+    "version": "1.20.1-2.13.0"
+  },
+  "lootr-forge-1.20-0.7.35.93.jar": {
+    "jarName": "lootr-forge-1.20-0.7.35.93.jar",
+    "modId": "lootr",
+    "version": "0.7.35.92"
+  },
+  "lumina_expanded-1.0.0-forge-1.20.1.jar": {
+    "jarName": "lumina_expanded-1.0.0-forge-1.20.1.jar",
+    "modId": "lumina_expanded",
+    "version": "1.0.0"
+  },
+  "megacells-forge-2.4.6-1.20.1.jar": {
+    "jarName": "megacells-forge-2.4.6-1.20.1.jar",
+    "modId": "megacells",
+    "version": "2.4.6-1.20.1"
+  },
+  "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar": {
+    "jarName": "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+    "modId": "melody",
+    "version": "1.0.2"
+  },
+  "memorysettings-1.20.1-5.9.jar": {
+    "jarName": "memorysettings-1.20.1-5.9.jar",
+    "modId": "memorysettings",
+    "version": "1.20.1-5.9"
+  },
+  "midnightlib-forge-1.4.2.jar": {
+    "jarName": "midnightlib-forge-1.4.2.jar",
+    "modId": "midnightlib",
+    "version": "1.4.2"
+  },
+  "minecraft-cursor-forge-3.11.2+1.20.1.jar": {
+    "jarName": "minecraft-cursor-forge-3.11.2+1.20.1.jar",
+    "modId": "minecraft_cursor",
+    "version": "3.11.2+1.20.1"
+  },
+  "modnametooltip-1.20.1-1.20.0.jar": {
+    "jarName": "modnametooltip-1.20.1-1.20.0.jar",
+    "modId": "modnametooltip",
+    "version": "1.20.0"
+  },
+  "MouseTweaks-forge-mc1.20.1-2.25.1.jar": {
+    "jarName": "MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+    "modId": "mousetweaks",
+    "version": "2.25.1"
+  },
+  "MyServerIsCompatible-1.20-1.0.jar": {
+    "jarName": "MyServerIsCompatible-1.20-1.0.jar",
+    "modId": "myserveriscompatible",
+    "version": "1.0"
+  },
+  "Nirvana Lib-forge-1.20.1-2.0.17.jar": {
+    "jarName": "Nirvana Lib-forge-1.20.1-2.0.17.jar",
+    "modId": "nirvana_lib",
+    "version": "2.0.17"
+  },
+  "no-report-button-forge-1.5.0.jar": {
+    "jarName": "no-report-button-forge-1.5.0.jar",
+    "modId": "noreportbutton",
+    "version": "1.5.0"
+  },
+  "Not Enough Recipe Book-FORGE-0.4.1+1.20.1.jar": {
+    "jarName": "Not Enough Recipe Book-FORGE-0.4.1+1.20.1.jar",
+    "modId": "nerb",
+    "version": "0.4.1"
+  },
+  "notenoughanimations-forge-1.10.6-mc1.20.1.jar": {
+    "jarName": "notenoughanimations-forge-1.10.6-mc1.20.1.jar",
+    "modId": "notenoughanimations",
+    "version": "1.10.6"
+  },
+  "OctoLib-FORGE-0.5.0.1+1.20.1.jar": {
+    "jarName": "OctoLib-FORGE-0.5.0.1+1.20.1.jar",
+    "modId": "octolib",
+    "version": "0.5.0.1"
+  },
+  "oculus-mc1.20.1-1.8.0.jar": {
+    "jarName": "oculus-mc1.20.1-1.8.0.jar",
+    "modId": "oculus",
+    "version": "1.8.0"
+  },
+  "optileaves-1.20.x-1.2.jar": {
+    "jarName": "optileaves-1.20.x-1.2.jar",
+    "modId": "optileaves",
+    "version": "1.1.0"
+  },
+  "particle_core-0.2.6+1.20.1+forge.jar": {
+    "jarName": "particle_core-0.2.6+1.20.1+forge.jar",
+    "modId": "particle_core",
+    "version": "0.2.6+1.20.1+forge"
+  },
+  "Patchouli-1.20.1-84.1-FORGE.jar": {
+    "jarName": "Patchouli-1.20.1-84.1-FORGE.jar",
+    "modId": "patchouli",
+    "version": "1.20.1-84.1-FORGE"
+  },
+  "Placebo-1.20.1-8.6.3.jar": {
+    "jarName": "Placebo-1.20.1-8.6.3.jar",
+    "modId": "placebo",
+    "version": "8.6.3"
+  },
+  "player-animation-lib-forge-1.0.2-rc1+1.20.jar": {
+    "jarName": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+    "modId": "playeranimator",
+    "version": "1.0.2-rc1+1.20"
+  },
+  "polyeng-forge-0.1.1-1.20.1.jar": {
+    "jarName": "polyeng-forge-0.1.1-1.20.1.jar",
+    "modId": "polyeng",
+    "version": "0.1.1-1.20.1"
+  },
+  "polymorph-forge-0.49.10+1.20.1.jar": {
+    "jarName": "polymorph-forge-0.49.10+1.20.1.jar",
+    "modId": "polymorph",
+    "version": "0.49.10+1.20.1"
+  },
+  "Prism-1.20.1-forge-1.0.5.jar": {
+    "jarName": "Prism-1.20.1-forge-1.0.5.jar",
+    "modId": "prism",
+    "version": "1.0.5"
+  },
+  "Programmed Circuit Card-1.20.1-1.2.5.jar": {
+    "jarName": "Programmed Circuit Card-1.20.1-1.2.5.jar",
+    "modId": "pccard",
+    "version": "1.2.5"
+  },
+  "PuzzlesLib-v8.1.33-1.20.1-Forge.jar": {
+    "jarName": "PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+    "modId": "puzzleslib",
+    "version": "8.1.33"
+  },
+  "rebind_narrator-1.20.1-forge-2025.10.21.jar": {
+    "jarName": "rebind_narrator-1.20.1-forge-2025.10.21.jar",
+    "modId": "rebind_narrator",
+    "version": "2025.10.21"
+  },
+  "rechiseled-1.1.6-forge-mc1.20.jar": {
+    "jarName": "rechiseled-1.1.6-forge-mc1.20.jar",
+    "modId": "rechiseled",
+    "version": "1.1.6"
+  },
+  "recipeessentials-1.20.1-4.0.jar": {
+    "jarName": "recipeessentials-1.20.1-4.0.jar",
+    "modId": "recipeessentials",
+    "version": "1.20.1-4.0"
+  },
+  "redirected-forge-1.0.0-1.20.1.jar": {
+    "jarName": "redirected-forge-1.0.0-1.20.1.jar",
+    "modId": "redirected",
+    "version": "1.0.0"
+  },
+  "resourcefulconfig-forge-1.20.1-2.1.3.jar": {
+    "jarName": "resourcefulconfig-forge-1.20.1-2.1.3.jar",
+    "modId": "resourcefulconfig",
+    "version": "2.1.3"
+  },
+  "resourcefullib-forge-1.20.1-2.1.29.jar": {
+    "jarName": "resourcefullib-forge-1.20.1-2.1.29.jar",
+    "modId": "resourcefullib",
+    "version": "2.1.29"
+  },
+  "rhino-forge-2001.2.3-build.10.jar": {
+    "jarName": "rhino-forge-2001.2.3-build.10.jar",
+    "modId": "rhino",
+    "version": "2001.2.3-build.10"
+  },
+  "saturn-mc1.20.1-0.1.3.jar": {
+    "jarName": "saturn-mc1.20.1-0.1.3.jar",
+    "modId": "saturn",
+    "version": "0.1.3"
+  },
+  "Searchables-forge-1.20.1-1.0.3.jar": {
+    "jarName": "Searchables-forge-1.20.1-1.0.3.jar",
+    "modId": "searchables",
+    "version": "1.0.3"
+  },
+  "servercore-forge-1.5.2+1.20.1.jar": {
+    "jarName": "servercore-forge-1.5.2+1.20.1.jar",
+    "modId": "servercore",
+    "version": "1.5.2+1.20.1"
+  },
+  "skinlayers3d-forge-1.9.2-mc1.20.1.jar": {
+    "jarName": "skinlayers3d-forge-1.9.2-mc1.20.1.jar",
+    "modId": "skinlayers3d",
+    "version": "1.9.2"
+  },
+  "smoothboot(reloaded)-mc1.20.1-0.0.4.jar": {
+    "jarName": "smoothboot(reloaded)-mc1.20.1-0.0.4.jar",
+    "modId": "smoothboot",
+    "version": "0.0.4"
+  },
+  "smoothchunk-1.20.1-4.1.jar": {
+    "jarName": "smoothchunk-1.20.1-4.1.jar",
+    "modId": "smoothchunk",
+    "version": "1.20.1-4.1"
+  },
+  "smoothswapping-0.9.2-1.20.1-forge.jar": {
+    "jarName": "smoothswapping-0.9.2-1.20.1-forge.jar",
+    "modId": "smoothswapping",
+    "version": "0.9.2"
+  },
+  "sodiumdynamiclights-forge-1.0.10-1.20.1.jar": {
+    "jarName": "sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
+    "modId": "sodiumdynamiclights",
+    "version": "1.0.9"
+  },
+  "sodiumextras-forge-1.0.7-1.20.1.jar": {
+    "jarName": "sodiumextras-forge-1.0.7-1.20.1.jar",
+    "modId": "sodiumextras",
+    "version": "1.0.6"
+  },
+  "sodiumoptionsapi-forge-1.0.10-1.20.1.jar": {
+    "jarName": "sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
+    "modId": "sodiumoptionsapi",
+    "version": "1.0.10"
+  },
+  "sodiumoptionsmodcompat-forge-1.0.0-1.20.1.jar": {
+    "jarName": "sodiumoptionsmodcompat-forge-1.0.0-1.20.1.jar",
+    "modId": "sodiumoptionsmodcompat",
+    "version": "1.0.0"
+  },
+  "sophisticatedbackpacks-1.20.1-3.24.12.1411.jar": {
+    "jarName": "sophisticatedbackpacks-1.20.1-3.24.12.1411.jar",
+    "modId": "sophisticatedbackpacks",
+    "version": "3.24.12.1411"
+  },
+  "sophisticatedcore-1.20.1-1.2.107.1240.jar": {
+    "jarName": "sophisticatedcore-1.20.1-1.2.107.1240.jar",
+    "modId": "sophisticatedcore",
+    "version": "1.2.107.1240"
+  },
+  "sophisticatedstorage-1.20.1-1.4.15.1362.jar": {
+    "jarName": "sophisticatedstorage-1.20.1-1.4.15.1362.jar",
+    "modId": "sophisticatedstorage",
+    "version": "1.4.15.1362"
+  },
+  "spark-1.10.53-forge.jar": {
+    "jarName": "spark-1.10.53-forge.jar",
+    "modId": "spark",
+    "version": "1.10.53"
+  },
+  "squatgrow-forge-5.3.0+mc1.20.1.jar": {
+    "jarName": "squatgrow-forge-5.3.0+mc1.20.1.jar",
+    "modId": "squatgrow",
+    "version": "5.3.0+mc1.20.1"
+  },
+  "strangematter-1.20.1-0.2.7.jar": {
+    "jarName": "strangematter-1.20.1-0.2.7.jar",
+    "modId": "strangematter",
+    "version": "0.2.7"
+  },
+  "structureessentials-1.20.1-4.8.jar": {
+    "jarName": "structureessentials-1.20.1-4.8.jar",
+    "modId": "structureessentials",
+    "version": "1.20.1-4.8"
+  },
+  "supermartijn642configlib-1.1.8-forge-mc1.20.jar": {
+    "jarName": "supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+    "modId": "supermartijn642configlib",
+    "version": "1.1.8"
+  },
+  "supermartijn642corelib-1.1.18-forge-mc1.20.1.jar": {
+    "jarName": "supermartijn642corelib-1.1.18-forge-mc1.20.1.jar",
+    "modId": "supermartijn642corelib",
+    "version": "1.1.18"
+  },
+  "TextAnimator-1.20.1-Forge-2.5.2.jar": {
+    "jarName": "TextAnimator-1.20.1-Forge-2.5.2.jar",
+    "modId": "textanimator",
+    "version": "2.5.2"
+  },
+  "titanium-1.20.1-3.8.32.jar": {
+    "jarName": "titanium-1.20.1-3.8.32.jar",
+    "modId": "titanium",
+    "version": "3.8.32"
+  },
+  "ToastControl-1.20.1-8.0.3.jar": {
+    "jarName": "ToastControl-1.20.1-8.0.3.jar",
+    "modId": "toastcontrol",
+    "version": "8.0.3"
+  },
+  "toofast-1.20-0.4.3.5.jar": {
+    "jarName": "toofast-1.20-0.4.3.5.jar",
+    "modId": "toofast",
+    "version": "0.4.3.5"
+  },
+  "tooltipoverhaul-forge-1.20.1-1.3.0.jar": {
+    "jarName": "tooltipoverhaul-forge-1.20.1-1.3.0.jar",
+    "modId": "tooltipoverhaul",
+    "version": "1.3.0"
+  },
+  "torchmaster-20.1.9.jar": {
+    "jarName": "torchmaster-20.1.9.jar",
+    "modId": "torchmaster",
+    "version": "20.1.9"
+  },
+  "trashcans-1.0.18b-forge-mc1.20.jar": {
+    "jarName": "trashcans-1.0.18b-forge-mc1.20.jar",
+    "modId": "trashcans",
+    "version": "1.0.18b"
+  },
+  "trashslot-forge-1.20-15.1.2.jar": {
+    "jarName": "trashslot-forge-1.20-15.1.2.jar",
+    "modId": "trashslot",
+    "version": "15.1.2"
+  },
+  "txnilib-forge-1.0.24-1.20.1.jar": {
+    "jarName": "txnilib-forge-1.0.24-1.20.1.jar",
+    "modId": "txnilib",
+    "version": "1.0.24"
+  },
+  "undertale_death_screen-forge-1.3.3+1.20.jar": {
+    "jarName": "undertale_death_screen-forge-1.3.3+1.20.jar",
+    "modId": "undertale_death_screen",
+    "version": "1.3.3"
+  },
+  "upgradedcore-1.20.1-5.0.0.2-release.jar": {
+    "jarName": "upgradedcore-1.20.1-5.0.0.2-release.jar",
+    "modId": "upgradedcore",
+    "version": "1.20.1-5.0.0.2-release"
+  },
+  "usclb-0.0.26.jar": {
+    "jarName": "usclb-0.0.26.jar",
+    "modId": "usclb",
+    "version": "1.20.1-0.0.26"
+  },
+  "valhelsia_core-forge-1.20.1-1.1.2.jar": {
+    "jarName": "valhelsia_core-forge-1.20.1-1.1.2.jar",
+    "modId": "valhelsia_core",
+    "version": "1.1.2"
+  },
+  "VisualWorkbench-v8.0.1-1.20.1-Forge.jar": {
+    "jarName": "VisualWorkbench-v8.0.1-1.20.1-Forge.jar",
+    "modId": "visualworkbench",
+    "version": "8.0.1"
+  },
+  "warp_siphons-2.2.0-forge-1.20.1.jar": {
+    "jarName": "warp_siphons-2.2.0-forge-1.20.1.jar",
+    "modId": "warp_siphons",
+    "version": "2.2.0"
+  },
+  "xbbsroaringknightmod-2.0.1.5-1.20.1-Forge.jar": {
+    "jarName": "xbbsroaringknightmod-2.0.1.5-1.20.1-Forge.jar",
+    "modId": "xbbsroaringknightmod",
+    "version": "2.0.1.5"
+  },
+  "xtonesreworked-1.0.4-F_1.20.1-47.2.0.jar": {
+    "jarName": "xtonesreworked-1.0.4-F_1.20.1-47.2.0.jar",
+    "modId": "xtonesreworked",
+    "version": "1.0.4"
+  },
+  "YeetusExperimentus-Forge-2.3.1-build.6+mc1.20.1.jar": {
+    "jarName": "YeetusExperimentus-Forge-2.3.1-build.6+mc1.20.1.jar",
+    "modId": "yeetusexperimentus",
+    "version": "2.3.1-build.6+mc1.20.1"
+  }
+}

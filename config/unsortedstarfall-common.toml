@@ -1,0 +1,5 @@
+
+["Unsorted Starfall"]
+	#Enables the spawning of Meteorites.
+	enableMeteorites = true
+

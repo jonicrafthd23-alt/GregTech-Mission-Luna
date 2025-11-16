@@ -1,0 +1,14 @@
+// Compost colors for fragmentum. You may add your own colors, change existing ones, or remove colors that aren't needed.
+auraforgeheart, #f7af61
+bladeofthearcaneeclipse, #3c848a
+coreofindustrialperfection, #726865
+creativeamalgamation, #d66bee
+datacrystal, #7046d4
+elixiroflife, #b6523c
+finaldraconicmatrix, #41333a
+floseternum, #ac690f
+heartofthevoid, #3a7f83
+machinaexastris, #364e4b
+manuscriptofthevoid, #4a5c5f
+rocketemblem, #806241
+ultimatecapacitor, #9d685c

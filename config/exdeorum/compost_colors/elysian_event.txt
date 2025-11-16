@@ -1,0 +1,3 @@
+// Compost colors for elysian_event. You may add your own colors, change existing ones, or remove colors that aren't needed.
+disc_battle_dying_star, #b1abcd
+elysian_sigil, #e0e0e0

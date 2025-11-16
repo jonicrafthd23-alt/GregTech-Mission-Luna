@@ -1,0 +1,652 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "nav"
+	group: "388BC39259316986"
+	icon: "gtceu:basic_electronic_circuit"
+	id: "00ECD15EE1369C68"
+	images: [
+		{
+			height: 2.0d
+			image: "forbidden_arcanus:block/arcane_chiseled_darkstone"
+			rotation: 0.0d
+			width: 2.0d
+			x: 14.5d
+			y: 3.5d
+		}
+		{
+			height: 3.0d
+			image: "tooltipoverhaul:textures/overlay/mv_frame.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: 14.5d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "chipped:block/amethyst_block/ctm/tiled_amethyst_block_column_ctm/1"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.0d
+			y: 6.5d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"                                                                   &lWhat happend &r"
+				""
+				"&oYou were on a Mission, &lBe the first human on the moon..."
+				"&r&oBut the worst thing happend."
+				"&oYou &4&l<shake>Crashed! &r"
+			]
+			icon: "ad_astra:moon_globe"
+			id: "302315090D6E11D8"
+			rewards: [{
+				id: "5FF9D474BDA82EFB"
+				type: "xp"
+				xp: 100
+			}]
+			subtitle: "Allthough you were  lucky to save a can of oxygen. Be quick or you wont be able to breathe"
+			tasks: [{
+				id: "55D152FE2878B460"
+				title: "what happend ?"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["302315090D6E11D8"]
+			description: ["Look out for a small glass box, go down the ladder to find the Lunarian Village"]
+			icon: "sophisticatedbackpacks:diamond_backpack"
+			id: "01F7FEC90EF3F4A7"
+			rewards: [{
+				id: "180F6F97DBF41D34"
+				item: "kubejs:lunar_coin"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "sophisticatedbackpacks:diamond_backpack"
+				id: "0D971C1C445BB6FE"
+				structure: "ad_astra:lunarian_village"
+				title: "Find a Lunarian Village"
+				type: "structure"
+			}]
+			title: "Finding some companions"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["01F7FEC90EF3F4A7"]
+			description: [
+				"In a &9Lunarian village&r you can find some chests. These chests may contain &2 saplings&r and &6coarse dirt&r to plant the sapling on."
+				"The warped tree works as well but, in the future you &l&1will&r need a normal sapling."
+			]
+			icon: "minecraft:oak_log"
+			id: "7B273BC5971F6AD4"
+			rewards: [{
+				id: "2A4F3953AE63EA99"
+				item: "kubejs:lunar_coin"
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "7E6D36B65881F9A1"
+				item: {
+					Count: 1
+					id: "ftbfiltersystem:smart_filter"
+					tag: {
+						display: {
+							Name: "{\"text\":\"Any Log\"}"
+						}
+						"ftbfiltersystem:filter": "or(item_tag(minecraft:logs))"
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"12F34DA73B70FFE9"
+				"22816AC8B820F9C3"
+				"52E95CF9BAACC63D"
+			]
+			description: ["The most basic resource &liron"]
+			id: "6E41B4BECD138A77"
+			shape: "diamond"
+			tasks: [{
+				id: "0C1DBE22F0171273"
+				item: "gtceu:crushed_iron_ore"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["12F34DA73B70FFE9"]
+			description: ["Probably the most under used material in vanilla"]
+			id: "22816AC8B820F9C3"
+			shape: "diamond"
+			tasks: [{
+				id: "6727D01E22B1AE4D"
+				item: "gtceu:crushed_copper_ore"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["12F34DA73B70FFE9"]
+			description: ["Tin ist the most boring of the three"]
+			id: "52E95CF9BAACC63D"
+			shape: "diamond"
+			tasks: [{
+				id: "2762D6F76C4819FB"
+				item: "gtceu:crushed_tin_ore"
+				type: "item"
+			}]
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["6E41B4BECD138A77"]
+			description: ["Yes those are a lot of tools, but they are all gonna be neccesary"]
+			icon: {
+				Count: 1
+				id: "gtceu:iron_hammer"
+				tag: {
+					Damage: 0
+					DisallowContainerItem: 0b
+					GT.Behaviours: { }
+					GT.Tool: {
+						HarvestLevel: 2
+						MaxDamage: 255
+						ToolSpeed: 6.0f
+					}
+					HideFlags: 2
+				}
+			}
+			id: "015715EFB780CAE1"
+			tasks: [
+				{
+					id: "0FAC59A3D70273AE"
+					item: {
+						Count: 1
+						id: "gtceu:iron_saw"
+						tag: {
+							Damage: 0
+							DisallowContainerItem: 0b
+							GT.Behaviours: {
+								HarvestIce: 1b
+							}
+							GT.Tool: {
+								MaxDamage: 255
+							}
+							HideFlags: 2
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1FD5C52273427329"
+					item: {
+						Count: 1
+						id: "gtceu:iron_screwdriver"
+						tag: {
+							Damage: 0
+							DisallowContainerItem: 0b
+							GT.Behaviours: { }
+							GT.Tool: {
+								MaxDamage: 255
+							}
+							HideFlags: 2
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0C230884D89E45B7"
+					item: {
+						Count: 1
+						id: "gtceu:iron_wire_cutter"
+						tag: {
+							Damage: 0
+							DisallowContainerItem: 0b
+							GT.Behaviours: { }
+							GT.Tool: {
+								HarvestLevel: 2
+								MaxDamage: 255
+								ToolSpeed: 6.0f
+							}
+							HideFlags: 2
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4A30A4CC4A1A7BC5"
+					item: {
+						Count: 1
+						id: "gtceu:wood_mallet"
+						tag: {
+							Damage: 0
+							DisallowContainerItem: 0b
+							GT.Behaviours: { }
+							GT.Tool: {
+								MaxDamage: 127
+							}
+							HideFlags: 2
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "214B94BC43CD2E49"
+					item: {
+						Count: 1
+						id: "gtceu:iron_hammer"
+						tag: {
+							Damage: 0
+							DisallowContainerItem: 0b
+							GT.Behaviours: { }
+							GT.Tool: {
+								HarvestLevel: 2
+								MaxDamage: 255
+								ToolSpeed: 6.0f
+							}
+							HideFlags: 2
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "73C56B73AC50DB3F"
+					item: {
+						Count: 1
+						id: "gtceu:iron_wrench"
+						tag: {
+							Damage: 0
+							DisallowContainerItem: 0b
+							GT.Behaviours: {
+								Mode: 2b
+							}
+							GT.Tool: {
+								HarvestLevel: 2
+								MaxDamage: 255
+								ToolSpeed: 6.0f
+							}
+							HideFlags: 2
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "36496C31C787A4CF"
+					item: {
+						Count: 1
+						id: "gtceu:iron_mortar"
+						tag: {
+							Damage: 0
+							DisallowContainerItem: 0b
+							GT.Behaviours: { }
+							GT.Tool: {
+								MaxDamage: 255
+							}
+							HideFlags: 2
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "57A5B0C06BCAB9C0"
+					item: {
+						Count: 1
+						id: "gtceu:iron_file"
+						tag: {
+							Damage: 0
+							DisallowContainerItem: 0b
+							GT.Behaviours: { }
+							GT.Tool: {
+								MaxDamage: 255
+							}
+							HideFlags: 2
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["015715EFB780CAE1"]
+			description: [
+				"Be honest we &4ALL &f(yes me and you) &4<shake>hate &r&fthe steam age."
+				"Its just &6Slow, boring, and just time consuming &r thats  why we Replaced the steam age &4&o no we wont just skip to LV.&r &o&nAtleast not directly"
+			]
+			id: "23176DCAC0CABFB4"
+			tasks: [{
+				id: "2A5E4E425457A214"
+				title: "what happens now ?"
+				type: "checkmark"
+			}]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["23176DCAC0CABFB4"]
+			description: ["To be honest, this is the &4hardest &ritem."]
+			hide_dependency_lines: true
+			id: "2FAD2D2E6C03F4C4"
+			tasks: [{
+				count: 3L
+				id: "66E9DFDB91BAA562"
+				item: { Count: 3, id: "gtceu:red_alloy_single_cable" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["23176DCAC0CABFB4"]
+			description: ["You did it, you &asuccsesfully&r &7repaired&r the vacuum tube."]
+			hide_dependency_lines: true
+			id: "5736E0C990FE3899"
+			tasks: [{
+				count: 2L
+				id: "3FD1C553E6633722"
+				item: "gtceu:vacuum_tube"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["23176DCAC0CABFB4"]
+			description: ["The only hard part is getting all the &6resin"]
+			hide_dependency_lines: true
+			id: "53EC77C7ECA5B9F7"
+			tasks: [{
+				id: "6877B55DB19319A1"
+				item: "gtceu:resin_printed_circuit_board"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["23176DCAC0CABFB4"]
+			description: ["At this point its getting &c<wave>ridiculous."]
+			hide_dependency_lines: true
+			id: "3440432C350FD581"
+			tasks: [{
+				count: 2L
+				id: "5DBF7B07C2003F09"
+				item: "gtceu:resistor"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 3.5d
+		}
+		{
+			dependencies: [
+				"3440432C350FD581"
+				"53EC77C7ECA5B9F7"
+				"2FAD2D2E6C03F4C4"
+				"5736E0C990FE3899"
+				"23176DCAC0CABFB4"
+			]
+			description: ["<rainb>You did it &r you succsesfully made your first &bLV Circuit.&r See it was &aREALLY &reasy."]
+			id: "36D929C299016E13"
+			shape: "square"
+			size: 1.8d
+			tasks: [{
+				id: "35E01C6EBFA349A3"
+				item: "gtceu:basic_electronic_circuit"
+				type: "item"
+			}]
+			x: 8.1d
+			y: 3.5999999999999996d
+		}
+		{
+			dependencies: [
+				"0AA9244322015C6B"
+				"40984E2AFECF666D"
+				"667C745EB8BF5574"
+				"6C1C8709C358EA2C"
+				"612ACAF082E2020A"
+				"483C53745BAE4BD4"
+				"36D929C299016E13"
+				"38D65CA8D2EDB103"
+			]
+			id: "5763199E636814BC"
+			shape: "square"
+			size: 1.2d
+			tasks: [{
+				id: "5FC42E6A07801006"
+				item: "gtceu:good_electronic_circuit"
+				type: "item"
+			}]
+			x: 14.5d
+			y: 3.5d
+		}
+		{
+			id: "6C1C8709C358EA2C"
+			tasks: [{
+				id: "1C01D3F15224C8A0"
+				item: "ad_astra:steel_ingot"
+				type: "item"
+			}]
+			x: 12.5d
+			y: 2.5d
+		}
+		{
+			id: "612ACAF082E2020A"
+			tasks: [{
+				id: "2F1C0E2A5D564BC4"
+				item: "gtceu:diode"
+				type: "item"
+			}]
+			x: 16.5d
+			y: 2.5d
+		}
+		{
+			id: "667C745EB8BF5574"
+			tasks: [{
+				id: "499A80E00540907E"
+				item: "gtceu:phenolic_printed_circuit_board"
+				type: "item"
+			}]
+			x: 14.5d
+			y: 5.5d
+		}
+		{
+			id: "483C53745BAE4BD4"
+			tasks: [{
+				id: "0BE0A38400CA3B86"
+				item: "gtceu:small_gallium_arsenide_dust"
+				type: "item"
+			}]
+			x: 16.5d
+			y: 4.5d
+		}
+		{
+			id: "40984E2AFECF666D"
+			tasks: [{
+				id: "2CCC3B7C7BB4A8F6"
+				item: "gtceu:arsenic_dust"
+				type: "item"
+			}]
+			x: 15.0d
+			y: 1.5d
+		}
+		{
+			id: "0AA9244322015C6B"
+			tasks: [{
+				id: "0F0112C28DCF26B5"
+				item: "gtceu:silver_single_wire"
+				type: "item"
+			}]
+			x: 12.5d
+			y: 4.5d
+		}
+		{
+			dependencies: [
+				"5901368D6C8C2D58"
+				"13C47C303ED2F394"
+			]
+			id: "25623A4AD0318378"
+			tasks: [{
+				id: "2DD1C0613109B0D9"
+				item: "gtceu:lv_assembler"
+				type: "item"
+			}]
+			x: 12.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["7F44A7D29A649E2C"]
+			id: "0E1358342A5F517B"
+			tasks: [{
+				id: "1E6B37E33129914E"
+				item: "gtceu:lv_mixer"
+				type: "item"
+			}]
+			x: 14.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["7F44A7D29A649E2C"]
+			id: "56C67436167C2641"
+			tasks: [{
+				id: "34AF3FE2F2F8A57A"
+				item: "gtceu:lv_centrifuge"
+				type: "item"
+			}]
+			x: 13.0d
+			y: -0.5d
+		}
+		{
+			id: "5901368D6C8C2D58"
+			tasks: [{
+				id: "36AB6330829B75F3"
+				item: "gtceu:lv_conveyor_module"
+				type: "item"
+			}]
+			x: 12.0d
+			y: -2.0d
+		}
+		{
+			id: "13C47C303ED2F394"
+			tasks: [{
+				id: "5D4AB26577EF5498"
+				item: "gtceu:lv_robot_arm"
+				type: "item"
+			}]
+			x: 11.0d
+			y: -2.0d
+		}
+		{
+			id: "7F44A7D29A649E2C"
+			tasks: [{
+				id: "60DBA6F6901B1AC5"
+				item: "gtceu:lv_electric_motor"
+				type: "item"
+			}]
+			x: 13.0d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"0C4802FEA16B11DA"
+				"0222E2B26CEF805D"
+			]
+			id: "38399919A613CEEA"
+			tasks: [{
+				id: "5941ED1128E508F4"
+				item: "gtceu:lv_extractor"
+				type: "item"
+			}]
+			x: 12.0d
+			y: 0.5d
+		}
+		{
+			id: "0C4802FEA16B11DA"
+			tasks: [{
+				id: "0BE1E18F30CAC4EE"
+				item: "gtceu:lv_electric_pump"
+				type: "item"
+			}]
+			x: 10.5d
+			y: 1.0d
+		}
+		{
+			id: "0222E2B26CEF805D"
+			tasks: [{
+				id: "431A437112FD93D4"
+				item: "gtceu:lv_electric_piston"
+				type: "item"
+			}]
+			x: 10.5d
+			y: 0.0d
+		}
+		{
+			id: "2D4867895C69F938"
+			tasks: [{
+				id: "2C4F5D612BEC82B1"
+				item: "gtceu:lv_emitter"
+				type: "item"
+			}]
+			x: 10.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["7B273BC5971F6AD4"]
+			icon: "exdeorum:string_mesh"
+			id: "12F34DA73B70FFE9"
+			shape: "hexagon"
+			tasks: [
+				{
+					id: "30383769DDDF4F85"
+					item: "exdeorum:oak_sieve"
+					type: "item"
+				}
+				{
+					id: "686ACA61952AEBE9"
+					item: "exdeorum:string_mesh"
+					type: "item"
+				}
+				{
+					id: "59BEABC3CD932FC8"
+					item: "ad_astra:moon_sand"
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"25623A4AD0318378"
+				"56C67436167C2641"
+				"38399919A613CEEA"
+				"0E1358342A5F517B"
+			]
+			id: "38D65CA8D2EDB103"
+			tasks: [{
+				id: "7E412D947930D6B4"
+				title: "All machines aqquired"
+				type: "checkmark"
+			}]
+			x: 13.5d
+			y: 1.0d
+		}
+	]
+	subtitle: ["NAV stands for Not Any Voltage"]
+	title: "&8<neon>LV"
+}

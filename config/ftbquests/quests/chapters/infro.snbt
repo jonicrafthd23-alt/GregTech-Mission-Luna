@@ -1,0 +1,54 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "infro"
+	group: ""
+	icon: "ftbquests:book"
+	id: "554570539C69112A"
+	images: [
+		{
+			height: 4.0d
+			image: "kubejs:item/mission_luna_pfp"
+			rotation: 0.8d
+			width: 7.170854271356784d
+			x: -0.5d
+			y: -2.0d
+		}
+		{
+			height: 4.0d
+			image: "ad_astra:textures/environment/moon.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 4.5d
+			y: -2.0d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "323CEE1423CC1BA6"
+			tasks: [{
+				id: "4E0B138F253ED5DF"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			description: [
+				"ja: complementary"
+				"nein :bsl,insanity,pastel,solas,ushader"
+			]
+			id: "169E090711FE3E03"
+			tasks: [{
+				id: "779E0A3F4E76FDE4"
+				title: "shaders"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+	]
+	title: "<grad>Info"
+}
