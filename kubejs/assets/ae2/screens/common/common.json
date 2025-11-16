@@ -1,0 +1,15 @@
+{
+  "$schema": "../schema.json",
+  "includes": ["palette.json", "toolbox.json"],
+  "widgets": {
+    "verticalToolbar": {
+      "left": 3,
+      "top": 1
+    },
+    "upgrades": {
+      "$comment": "The upgrade panel found on some screens",
+      "right": 9,
+      "top": 0
+    }
+  }
+}

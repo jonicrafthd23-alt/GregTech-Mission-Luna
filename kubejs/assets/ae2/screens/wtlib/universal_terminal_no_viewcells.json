@@ -1,0 +1,46 @@
+{
+  "$schema": "schema.json",
+  "slots": {
+    "AE2WTLIB_SINGULARITY": {
+      "right": 1,
+      "top": 6
+    },
+    "TOOLBOX": {
+      "$comment": "Only relevant if the toolbox is present (i.e. network tool)",
+      "bottom": 84,
+      "left": 175,
+      "grid": "BREAK_AFTER_3COLS"
+    }
+  },
+  "images": {
+    "singularityBackground": {
+      "texture": "guis/extra_panels.png",
+      "textureWidth": 128,
+      "textureHeight": 128,
+      "srcRect": [
+        0,
+        0,
+        32,
+        25
+      ]
+    }
+  },
+  "widgets": {
+    "singularityBackground": {
+      "right": 9,
+      "top": -2
+    },
+    "upgrades": {
+      "$comment": "The upgrade panel found on some screens",
+      "right": 9,
+      "top": 16
+    },
+    "toolbox": {
+      "$comment": "The toolbox found on some screens",
+      "left": 174,
+      "bottom": 90,
+      "width": 59,
+      "height": 66
+    }
+  }
+}

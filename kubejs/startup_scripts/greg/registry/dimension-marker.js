@@ -1,0 +1,5 @@
+GTCEuStartupEvents.registry("gtceu:dimension_marker", event => {  event.create("ad_astra:moon")
+        .iconSupplier(() => Item.of("ad_astra:moon_globe").getItem())
+        .tier(0)
+        .overrideName("Moon")
+})

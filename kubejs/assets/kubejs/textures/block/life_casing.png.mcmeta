@@ -1,0 +1,5 @@
+{
+    "ldlib": {
+        "connection": "kubejs:block/life_casing_ctm"
+    }
+}
